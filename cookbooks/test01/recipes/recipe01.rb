@@ -4,4 +4,4 @@ template "/tmp/template01.txt" do
         group "root"
         mode 0644
 end
-
+###
